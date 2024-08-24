@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "title": "Software Developer",
+      "type": "Internship",
+      "salary": "60",
+      "deadline": "2024-12-12",
+      "id": 2
+    },
+    {
+      "title": "Junior Executive",
+      "type": "Remote",
+      "salary": "15000",
+      "deadline": "2025-12-31",
+      "id": 3
+    },
+    {
+      "title": "Product Manager",
+      "type": "Remote",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 4
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Full Time",
+      "salary": "20000",
+      "deadline": "2023-11-30",
+      "id": 5
+    },
+    {
+      "title": "Android App Developer",
+      "type": "Remote",
+      "salary": "35000",
+      "deadline": "2023-12-31",
+      "id": 6
+    },
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 7
+    },
+    {
+      "title": "Frontend Engineer",
+      "type": "Internship",
+      "salary": "500",
+      "deadline": "2024-08-31",
+      "id": 8
+    },
+    {
+      "title": "Software Developer",
+      "type": "Internship",
+      "salary": "500",
+      "deadline": "2024-08-29",
+      "id": 9
+    }
+  ]
+}
